@@ -76,3 +76,5 @@ DerivedDataCache/*
 # ignore landscape brushes
 Content/CK/LandScape/Brush
 
+#ignore builds
+Package/
